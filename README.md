@@ -48,16 +48,3 @@ To run this project locally:
 
 3. **Delete a Task:**
    - Click on the delete icon/button next to the task you want to remove.
-
-## Contributing
-
-Contributions are welcome! If you'd like to enhance the application or add new features, please fork the repository and submit a pull request with your changes.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
-## Acknowledgements
-
-- This project utilizes the browser's localStorage API for data persistence.
-
